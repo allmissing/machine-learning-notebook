@@ -1,5 +1,5 @@
 
-提炼自http://younghz.github.io/Markdown/
+摘自http://younghz.github.io/Markdown/
 
 包括：标题，段落，区块引用，代码区块，强调，列表，分割线，链接，图片，反斜杠\，符号'`'
 
