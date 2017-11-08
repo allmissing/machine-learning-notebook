@@ -10,7 +10,7 @@
 
 这时候在第一个cell里输入一些内容，然后shift+return（或者点击运行），pycharm就会弹框提示
 
-![avatar]（https://github.com/allmissing/machine-learning-notebook/blob/master/tool/MackDownPhotos/1.png）
+![avatar]（github.com/allmissing/machine-learning-notebook/blob/master/tool/MackDownPhotos/1.png）
 
 这里要注意！如果你需要制定的服务器上运行notebook，这时候你可以填写你所使用的服务器地址；但一般情况下，我们只是想本地编辑notebook，这里我们点击“cancel”。接着pycharm会提示”Cannot connect to Jupyter Notebook. Run Jupyter Notebook”。利用这个提示，我们在pycharm中启动本地的notebook服务器（官方的文档就是这么做的，我也觉得很操蛋）
 
